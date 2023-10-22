@@ -26,3 +26,15 @@ Criando os estilos de preparação da página como um todo e do cabeçalho
 
 Criando os estilos da seção inicial
 
+Criando e adicionando  as classes necessárias
+
+Criando os estilos da seção de clínica
+
+Criando os estilos da seção de clínica
+
+Criando os estilos da seção de perguntas frequentes
+
+Criando e adicionando as classes necessárias no HTML
+
+Criando a seção de rodapé
+
