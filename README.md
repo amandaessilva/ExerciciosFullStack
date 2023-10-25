@@ -1,4 +1,4 @@
-** Página desenvolvida no curso de Introdução a Web da OneBitCode **
+ Página desenvolvida no curso de Introdução a Web da OneBitCode 
 
 ## FullStack-JavaScript-OneBitCode
 
