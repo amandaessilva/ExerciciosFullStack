@@ -1,6 +1,8 @@
-# FullStack-JavaScript-OneBitCode
+## Página desenvolvida no curso de Introdução a Web da OneBitCode
 
-## HTML5
+## FullStack-JavaScript-OneBitCode
+
+### HTML 5
 
 Criando uma estrutura básica do HTML, com head e body
 
@@ -18,7 +20,7 @@ Criando o rodapé da página
 
 
 
-## CSS
+### CSS
 
 Criando um arquivo CSS na pasta principal do projeto.
 
@@ -42,7 +44,7 @@ Criando a seção de rodapé
 
 
 
-## JAVASCRIPT
+### JAVASCRIPT
 
 Criando o arquivo JavaScript na pasta do projeto.
 
